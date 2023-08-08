@@ -16,4 +16,9 @@ Class Application {
 	int c= subtract(2,3);
 	System.out.println("subtraction of 2 values :"+c);
   }
+  
+  String abc(String a, String b)
+  {
+	  Systen.out.println("a,b");
+  }
 }
