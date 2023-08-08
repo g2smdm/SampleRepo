@@ -16,4 +16,11 @@ Class Application {
 	int c= subtract(2,3);
 	System.out.println("subtraction of 2 values :"+c);
   }
+
+    String printBanner()
+	    {
+	    return "banner";
+	    
+		    }
+    //This is the banner code implemented along with operations	
 }
