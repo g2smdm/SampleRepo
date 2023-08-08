@@ -17,6 +17,16 @@ Class Application {
 	System.out.println("subtraction of 2 values :"+c);
   }
 
+getNumberFromstring()
+	{
+	System.out.println("number is number");
+}
+
+get Double()
+	{
+	return double;
+}
+
   
   String abc(String a, String b)
   {
