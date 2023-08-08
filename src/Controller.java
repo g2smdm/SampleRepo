@@ -1,6 +1,13 @@
 Class Controller {
-  public static void main(String args[])
-    {
-    System.out.println("Welcome to controller");
-  }
+int add(a,b)
+{
+ return a+b;
 }
+
+public static void main(String args[])
+ {
+  c=add(2,3); 
+  System.out.println("sum of 2 numbers:"+c);
+ }
+}
+		
