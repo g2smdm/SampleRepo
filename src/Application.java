@@ -17,10 +17,20 @@ Class Application {
 	System.out.println("subtraction of 2 values :"+c);
   }
 
+
+   getBiggest(int a, int b)
+	   {
+	    if (a >b )
+		    return a;
+	   else
+		    return b;
+   }
+
     String printBanner()
 	    {
 	    return "banner";
 	    
 		    }
     //This is the banner code implemented along with operations	
+
 }
